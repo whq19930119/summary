@@ -1,5 +1,5 @@
 
-FILE = 2017Year/Auguest/09/20170810-summary.c 
+FILE = 2017Year/Auguest/20170810-summary.c 
 WORD = "20170810"
 
 push:
