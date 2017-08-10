@@ -1,6 +1,6 @@
 
-FILE = 2017Year/Auguest/20170810-summary.c 
-WORD = "20170810"
+FILE = 2017Year/Auguest/20170809-summary.c 
+WORD = "20170809"
 
 push:
 	git add $(FILE)
