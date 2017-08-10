@@ -1,11 +1,11 @@
 
-FILE = 2017Year 
-WORD = "20170809"
+FILE = 2017Year/Auguest/09/20170810-summary.c 
+WORD = "20170810"
 
 push:
 	git add $(FILE)
 
-	git commit -m $(WORD)
+	git commit -am $(WORD)
 
 	git remote add origin https://github.com/whq19930119/summary.git
 
